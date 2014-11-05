@@ -35,13 +35,6 @@
     <a href="/" class="item">
         <i class="large home basic icon"></i> Home
     </a>
-    <?php $user = Auth::user();
-    if ($user->id_per_usr == 1):
-        ?>
-        <a href="/perfis" class="item">
-            <i class="large add user basic icon"></i> Perfil
-        </a>
-    <?php endif; ?>
 
     <a href="/requisitos" class="item">
         <i class=" large open basic icon"></i> Requisito Funcional
