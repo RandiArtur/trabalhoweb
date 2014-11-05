@@ -1,6 +1,5 @@
 ## Trabalho de Desenvolvimento WEB
-### Professor: Edgar
-### Alunos: Artur, ...
+Aluno: Artur
 
 
 ### License
