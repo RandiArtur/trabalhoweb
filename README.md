@@ -1,5 +1,5 @@
 ## Trabalho de Desenvolvimento WEB
-Aluno: Artur
+Aluno: Artur Gabriel Randi Cruz
 
 
 #### License
